@@ -1,2 +1,2 @@
 # delta-practice
-This is a practice session for Git &amp; Github
+This is a practice session for Git &amp; Github.
